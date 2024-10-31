@@ -46,8 +46,8 @@ After all these steps, go back to the path where your 3D matrix is, you will fin
 
 3. Data_during_computation.mat: This is just the data doing the process of computing in the instruction.
 
-<Output_plots>: This contains 3 things: 1. Comparison_traj_plots: this is just the cosine angle trajectory plots.
-2. Inter-group distance plots: this is just the inter-group distance plots 3. Mean response strength: this is just the mean response strength both for groups and constellations. 
+<Output_plots>: This contains 3 things: 1. Comparison_traj_plots: this is the cosine angle trajectory plots.
+2. Inter-group distance plots: this is the inter-group distance plots 3. Mean response strength: this is the mean response strength both for groups and constellations. 
 NOTICE3: all these plots will contain the data based on raw data and normalized data, which is the name of the image file, you can explore it. 
 
 
