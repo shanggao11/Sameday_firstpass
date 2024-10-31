@@ -33,8 +33,8 @@ Comp1:> just input the constellation number in comparison, e.g. [1,2]
 
 
 
-NOTICE2: this program will save all you input, rerun it (if you do not close MATLAB) will not ask you to re-input informations; 
-However, if you do want to change some stuff, for example, the condition number in G1, you can just <clear G1>, or just delete the G1 variable in the variable workspace. One thing you need to be aware of is that if you want to add a group number, you can delete the num_Of_Groups, but also the target, since the target has the same dimension as the number of Groups, so just delete these two variables, and you will add more groups.
+NOTICE2: this program will save all you input, rerun it (if you do not close MATLAB) will not ask you to re-input information; 
+However, if you do want to change some stuffs, for example, the condition number in G1, you can just <clear G1>, or just delete the G1 variable in the variable workspace. One thing you need to be aware of is that if you want to add a group number, you can delete the num_Of_Groups, but also the target, since the target has the same dimension as the number of Groups, so just delete these two variables, and you will add more groups.
 
 After all these steps, go back to the path where your 3D matrix is, you will find two folders:1. <Output_data> 2. <Output_plots>
 
